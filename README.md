@@ -1,4 +1,4 @@
-# Project Name
+# Leaf Disease Identification
 
 Leaf Disease Detection using Image Processing
 
